@@ -2,4 +2,4 @@
 
 # Build settings
 markdown: krema
-theme: minima
+theme: slate
